@@ -1,6 +1,6 @@
 # FromVoid
 
-I’m Portal Surfer, an artist who builds instruments and tools for making music. I share them here as open-source software.
+I’m [PORTALSURFER](https://soundcloud.com/portalsurfer), an artist who builds instruments and tools for making music. I share them here as open-source software.
 
 I put a lot of my own time and money into these projects. I use AI extensively to build them and make them more accessible. I want everyone to be able to play, express themselves, and make music, whatever their budget.
 
