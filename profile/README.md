@@ -4,6 +4,7 @@
 
 I’m [PORTALSURFER](https://soundcloud.com/portalsurfer). I make music and build instruments and tools for making it. I use AI extensively in that work and share the projects here so more people can make music, whatever their budget.
 
+- [hex](https://github.com/fromvoid-audio/hex) — a native Rust digital audio workstation.
 - [frqx](https://github.com/fromvoid-audio/frqx) — design and audition microtonal tunings.
 - [MBX](https://github.com/fromvoid-audio/mbx) — multiband dynamics.
 - [MSX](https://github.com/fromvoid-audio/msx) — spectral reference metering.
