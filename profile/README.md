@@ -12,6 +12,6 @@ I’m [PORTALSURFER](https://soundcloud.com/portalsurfer). I make music and buil
 - [Yield](https://github.com/fromvoid-audio/yield) — browse and audition samples.
 - [Toybox](https://github.com/fromvoid-audio/toybox) — a Rust framework for audio plug-ins.
 
-I welcome code and documentation contributions. If you’d like to help cover the costs, you can chip in on Ko-fi.
+I build this software for myself first and foremost and offer no guarantees of support. That said, I welcome code, documentation, and interesting ideas—and I’m happy to add them when we align on the direction. If you’d like to help cover the costs, you can chip in on Ko-fi.
 
 [MIT license](../LICENSE)
